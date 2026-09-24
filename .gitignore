@@ -1,0 +1,5 @@
+.env
+.env.*
+__pycache__/
+.psyop-*.ckpt.jsonl
+psyop-*.json
